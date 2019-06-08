@@ -16,20 +16,27 @@ SAM Token is an ERC 20 token that will be issued on the Ethereum blockchain. SAM
 A token sale is an event in which companies making use of blockchain technology attract participation and support for their platforms by selling cryptocurrency tokens to early adopters and enthusiasts in exchange for money today. These tokens, after their issuance, can be used on the project platform as internal currency for payment of services. Bankdex, in turn, receives the financing necessary for development of the platform.
 
 ## What is the token price?
+Answer will be updated soon.
+
 
 ## Is there minimum to invest?
+Answer will be updated soon.
 
 ## Can I buy SAM Token with fiat or other cryptocurrencies?
 You can buy SAM tokens in multiple currencies supported by Coinpayments.com
 
 ## Do I need to register for the sale and do KYC — how do I do it?
+Answer will be updated soon.
 
 ## What is the total token supply?
+Answer will be updated soon.
 
 ## What is your Cap?
+Answer will be updated soon.
 
 ## Will US residents be able to participate in the ICO?
 Due to the uncertain regulatory landscape in the United States, US citizens or residents won’t be able to participate and we will use KYC approval to enforce that.
+
 ## When will I get the tokens?
 Tokens will be distributed to the same wallet address from which you contributed in approximately 21 days after the end of the ICO. 
 
@@ -39,3 +46,5 @@ Check out the Prototype - XX
 ## Where can I find the latest news from the team?
 Checkout our blog and announcements at - XX
 
+## My question is not listed above, where can I connect with team?
+Answer will be updated soon.
